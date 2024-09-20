@@ -1,0 +1,22 @@
+{
+    "singers": [
+        {
+            "singer_name": "NewJeans",
+            "singer_img": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/e0/f9/dd/e0f9dd9c-05b0-ed9d-509c-fb81a561d593/Job9c106ed8-ee61-4119-9e50-497177d4bb2f-152281103-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_290095808_1492430509-Time1688400874752.png/296x296bb.webp",
+            "singer_id": "1635469693",
+            "id": 1
+        },
+        {
+            "singer_name": "征國",
+            "singer_img": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a5/a6/56/a5a6561a-f570-2fb1-5a3a-95b150c18f18/196922550928_Cover.jpg/296x296bb.webp",
+            "singer_id": "785052275",
+            "id": 2
+        },
+        {
+            "singer_name": "(G)I-DLE",
+            "singer_img": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/0c/c6/98/0cc698f1-0716-1416-8018-551be9826e2f/Job39c94242-1c9b-4140-a359-b788fc373285-150177851-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_284943736_1450037441-Time1684311185319.png/296x296bb.webp",
+            "singer_id": "1378887586",
+            "id": 3
+        }
+    ]
+}
